@@ -9,7 +9,7 @@ header{
 .container{
     max-width: 1064px;
     margin: auto;
-}
+    }
 header .logo{
     position: absolute;
     left: calc(50% - 40px);
@@ -112,7 +112,7 @@ header nav li a{
 }
 .picture_hum{
     position: relative;
-    right: -76px;
+    right: -106px;
 }
 .guides{
     padding-top: 60px;
