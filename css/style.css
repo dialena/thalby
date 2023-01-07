@@ -23,6 +23,9 @@ header .logo{
 .space_between{
 justify-content: space-between;
 }
+.border_box{
+    box-sizing: border-box;
+}
 header nav ul{
     display: flex;
     list-style: none;
@@ -56,4 +59,128 @@ header nav li a{
 .icons li:last-child{
     position: relative;
     top: 0px;
+}
+.humanity{
+    background-color: #F0EFEB;
+    padding-top: 9px;
+    padding-bottom: 24px;
+}
+.humanity H1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+    color: #000000;
+    margin-bottom: 4px;
+    margin-top: 81px;
+}
+.param_hum{
+    margin-right: -135px;
+}
+.humanity H2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 70px;
+    color: #000000;
+    margin-bottom: 42px;
+}
+.humanity p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    margin-bottom: 26px;
+    margin-right: 53px;
+}
+.humanity a {
+    background: #000000;
+    border: 1px solid #000000;
+    border-radius: 100px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 7px 23px 9px 23px;
+}
+.picture_hum{
+    position: relative;
+    right: -76px;
+}
+.guides{
+    padding-top: 60px;
+    padding-bottom: 248px;
+}
+.guides H2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 27px;
+}
+.guides p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 47px;
+    margin-left: 216px;
+    margin-right: 216px;
+}
+.guides H3{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #000000;
+    margin-top: 88px;
+    margin-bottom: 52px;
+}
+.best_sellers_param{
+    max-width: 309px;
+}
+.best_sellers_param H4{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+    margin: 27px 71px 17px 71px;
+}
+.best_sellers_param p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+    margin: 0px 118px 10px 118px;
+}
+.best_sellers_param H5{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #000000;
 }
