@@ -137,8 +137,6 @@ header nav li a{
     text-align: center;
     color: #000000;
     margin-bottom: 47px;
-    margin-left: 216px;
-    margin-right: 216px;
 }
 .guides H3{
     font-family: 'Roboto';
@@ -153,6 +151,7 @@ header nav li a{
 }
 .best_sellers_param{
     max-width: 309px;
+    text-align: center;
 }
 .best_sellers_param H4{
     font-family: 'Roboto';
@@ -160,9 +159,9 @@ header nav li a{
     font-weight: 700;
     font-size: 17px;
     line-height: 20px;
-    text-align: center;
     color: #000000;
-    margin: 27px 71px 17px 71px;
+    margin-top: 27px;
+    margin-bottom: 17px;
 }
 .best_sellers_param p{
     font-family: 'Roboto';
@@ -170,17 +169,15 @@ header nav li a{
     font-weight: 400;
     font-size: 17px;
     line-height: 20px;
-    text-align: center;
     color: #000000;
-    margin: 0px 118px 10px 118px;
+    margin-bottom:10px;
 }
-.best_sellers_param H5{
+.best_sellers_param a{
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 700;
     font-size: 17px;
     line-height: 20px;
-    text-align: center;
     text-decoration-line: underline;
     color: #000000;
 }
